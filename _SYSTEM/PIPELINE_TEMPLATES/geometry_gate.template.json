@@ -1,0 +1,18 @@
+{
+  "config_sha256": "TBD",
+  "control_residuals_px": "TBD",
+  "deformation_metric": "TBD",
+  "deformation_observed": "TBD",
+  "gate": "GEOMETRY",
+  "geometry_receipt": "TBD",
+  "issues": [],
+  "matrix": "TBD",
+  "max_control_residual_px": "TBD",
+  "proposal_sha256": "TBD",
+  "result": "PENDING",
+  "run_id": "TBD",
+  "schema_version": "2.0",
+  "transform_model": "TBD",
+  "validation_residuals": "TBD",
+  "zone_id": "TBD"
+}

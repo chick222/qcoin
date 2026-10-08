@@ -1,0 +1,23 @@
+{
+  "schema_version": "1.0",
+  "algorithm": "NUM4_PREALIGN_0.8",
+  "input_file_id": "TBD",
+  "raw_sha256": "TBD",
+  "reference_file_id": "TBD",
+  "reference_sha256": "TBD",
+  "raw_rim_points": "TBD",
+  "reference_rim_points": "TBD",
+  "orientation_controls": "TBD",
+  "orientation_validation": "TBD",
+  "raw_rim_fit": "TBD",
+  "reference_rim_fit": "TBD",
+  "shape_matrix": "TBD",
+  "orientation_matrix": "TBD",
+  "raw_to_normalized": "TBD",
+  "normalized_to_raw": "TBD",
+  "correction_model": "ELLIPSE_TO_CIRCLE_FROM_RIM_ONLY",
+  "canvas": "TBD",
+  "normalized_sha256": "TBD",
+  "post_transforms": [],
+  "prealign_provenance": "RIM_AND_COMMON_NONDIAGNOSTIC_CONTOURS_ONLY"
+}

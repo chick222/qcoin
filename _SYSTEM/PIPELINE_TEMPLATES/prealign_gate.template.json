@@ -1,0 +1,12 @@
+{
+  "gate": "PREALIGN",
+  "result": "TBD",
+  "issues": [],
+  "config_sha256": "TBD",
+  "prealign_sha256": "TBD",
+  "raw_sha256": "TBD",
+  "normalized_sha256": "TBD",
+  "reference_file_id": "TBD",
+  "input_file_id": "TBD",
+  "prealign_receipt": "TBD_ONLY_IF_MACHINE_PASS"
+}

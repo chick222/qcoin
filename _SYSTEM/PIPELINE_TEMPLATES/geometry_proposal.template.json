@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.2",
+  "run_id": "TBD",
+  "zone_id": "TBD",
+  "transform_provenance": "C1_C2_C3_ONLY",
+  "coin_points": [
+    [
+      "TBD",
+      "TBD"
+    ],
+    [
+      "TBD",
+      "TBD"
+    ],
+    [
+      "TBD",
+      "TBD"
+    ]
+  ],
+  "validation_points": [
+    {
+      "id": "TBD",
+      "coin": [
+        "TBD",
+        "TBD"
+      ]
+    }
+  ],
+  "post_transforms": [],
+  "prealign_receipt": "TBD_MACHINE_PREALIGN_RECEIPT",
+  "normalized_sha256": "TBD_NORMALIZED_IMAGE_HASH"
+}

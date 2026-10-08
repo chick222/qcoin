@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0",
+  "gate": "REVIEW_ROUTER",
+  "result": "REWORK_OR_HARD_STOP",
+  "reviewer": "AUTO",
+  "failed_stage": "AUTO",
+  "reason_codes": [],
+  "issues": [],
+  "detailed_reason": "AUTO",
+  "returned_for_rework": "AUTO",
+  "return_note": "AUTO",
+  "target_stage": null,
+  "rework_attempt": null,
+  "max_rework_attempts": 3,
+  "invalidated_gates": [],
+  "resume_condition": "AUTO",
+  "user_action_required": "AUTO",
+  "review_sha256": "AUTO",
+  "updated_at": "AUTO"
+}

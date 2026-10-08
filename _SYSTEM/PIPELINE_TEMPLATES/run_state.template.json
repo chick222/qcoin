@@ -1,0 +1,23 @@
+{
+  "schema_version": "1.0",
+  "run_id": "AUTO",
+  "status": "ACTIVE",
+  "updated_at": "AUTO",
+  "manifest_sha256": "AUTO",
+  "gates": {
+    "SOURCES_PASS": "PENDING",
+    "BRANCH_PASS": "PENDING",
+    "PREALIGN_PASS": "PENDING",
+    "GEOMETRY_PASS": "PENDING",
+    "DIAGNOSTICS_PASS": "PENDING",
+    "ALTERNATIVES_PASS": "PENDING",
+    "AUDIT_PASS": "PENDING"
+  },
+  "artifacts": {},
+  "VERDICT_RECEIPT": null,
+  "workflow_status": "ACTIVE",
+  "max_rework_attempts": 3,
+  "rework_counters": {},
+  "review_history": [],
+  "last_review_decision": null
+}

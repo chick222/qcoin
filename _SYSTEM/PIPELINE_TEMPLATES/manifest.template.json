@@ -1,0 +1,13 @@
+{
+  "schema_version": "1.0",
+  "run_id": "AUTO",
+  "status": "ACTIVE",
+  "catalog_root": "/coins4",
+  "inbox_folder_id": "TBD",
+  "created_at": "AUTO",
+  "updated_at": "AUTO",
+  "input_revision": 1,
+  "files": [],
+  "canonical_sources": {},
+  "branch": {"status": "PENDING"}
+}

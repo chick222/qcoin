@@ -1,0 +1,154 @@
+{
+  "schema_version": "1.0",
+  "input_file_id": "TBD_DRIVE_FILE_ID",
+  "reference_file_id": "TBD_CANONICAL_REFERENCE_ID",
+  "raw_rim_points": [
+    [
+      "TBD",
+      "TBD"
+    ],
+    [
+      "TBD",
+      "TBD"
+    ],
+    [
+      "TBD",
+      "TBD"
+    ],
+    [
+      "TBD",
+      "TBD"
+    ],
+    [
+      "TBD",
+      "TBD"
+    ],
+    [
+      "TBD",
+      "TBD"
+    ],
+    [
+      "TBD",
+      "TBD"
+    ],
+    [
+      "TBD",
+      "TBD"
+    ],
+    [
+      "TBD",
+      "TBD"
+    ],
+    [
+      "TBD",
+      "TBD"
+    ],
+    [
+      "TBD",
+      "TBD"
+    ],
+    [
+      "TBD",
+      "TBD"
+    ]
+  ],
+  "reference_rim_points": [
+    [
+      "TBD",
+      "TBD"
+    ],
+    [
+      "TBD",
+      "TBD"
+    ],
+    [
+      "TBD",
+      "TBD"
+    ],
+    [
+      "TBD",
+      "TBD"
+    ],
+    [
+      "TBD",
+      "TBD"
+    ],
+    [
+      "TBD",
+      "TBD"
+    ],
+    [
+      "TBD",
+      "TBD"
+    ],
+    [
+      "TBD",
+      "TBD"
+    ],
+    [
+      "TBD",
+      "TBD"
+    ],
+    [
+      "TBD",
+      "TBD"
+    ],
+    [
+      "TBD",
+      "TBD"
+    ],
+    [
+      "TBD",
+      "TBD"
+    ]
+  ],
+  "orientation_controls": [
+    {
+      "raw": [
+        "TBD",
+        "TBD"
+      ],
+      "reference": [
+        "TBD",
+        "TBD"
+      ],
+      "role": "COMMON_NONDIAGNOSTIC_CONTOUR"
+    },
+    {
+      "raw": [
+        "TBD",
+        "TBD"
+      ],
+      "reference": [
+        "TBD",
+        "TBD"
+      ],
+      "role": "COMMON_NONDIAGNOSTIC_CONTOUR"
+    }
+  ],
+  "orientation_validation": [
+    {
+      "raw": [
+        "TBD",
+        "TBD"
+      ],
+      "reference": [
+        "TBD",
+        "TBD"
+      ],
+      "role": "COMMON_NONDIAGNOSTIC_CONTOUR"
+    },
+    {
+      "raw": [
+        "TBD",
+        "TBD"
+      ],
+      "reference": [
+        "TBD",
+        "TBD"
+      ],
+      "role": "COMMON_NONDIAGNOSTIC_CONTOUR"
+    }
+  ],
+  "annotation_status": "TBD_GEOMETER_CONFIRMED"
+}

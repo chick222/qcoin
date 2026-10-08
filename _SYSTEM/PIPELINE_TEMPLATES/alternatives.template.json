@@ -1,0 +1,10 @@
+{
+  "schema_version": "1.0",
+  "run_id": "TBD",
+  "result": "PENDING",
+  "selected_candidate": "TBD",
+  "nearest_significant_alternative": "TBD",
+  "alternatives_checked": [],
+  "exclusion_evidence": [],
+  "artifact_hashes": {}
+}
